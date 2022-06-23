@@ -1,8 +1,8 @@
 
-## 👋🏻 I'm Mathilde. Welcome to my profile
+# 👋🏻 I'm Mathilde. Welcome to my profile
 
 
-### About me : 
+## About me : 
 
 * Career change from product manager to developer on March 2022 
 
@@ -34,7 +34,7 @@
 --------------------------------------------------
 
 
-### What i'm up to : 
+## What i'm up to : 
 
 * HappyCow website clone : frontend  
 
@@ -45,13 +45,13 @@
 --------------------------------------------------
 
 
-### My GitHub stats : 
+## My GitHub stats : 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mathilderiv)  
 
 --------------------------------------------------
 
-### How to reach me : 
+## How to reach me : 
 
 mathilde.greco@gmail.com
 
