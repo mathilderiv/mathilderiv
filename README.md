@@ -1,4 +1,10 @@
-### Hello, I'm Mathilde 👱🏼‍♀️
+
+### Hello, I'm Mathilde. Welcome to my profile. 
+
+
+
+
+![DSCN3013](https://user-images.githubusercontent.com/102386825/175369877-e7aeb1a3-04bf-4407-ac86-a206269b967f.JPG)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mathilderiv)
 
