@@ -6,7 +6,7 @@
 
 * Career change from product manager to developer on March 2022 
 
-* Started to learn :
+* Stack :
 
 `Front :`
  
@@ -40,9 +40,6 @@
 
 ## What i'm up to : 
 
-* HappyCow website clone : frontend  
-
-* TheMovieDB API : frontend
 
 * <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
